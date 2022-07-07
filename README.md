@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dsprajput
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on android development project.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/dsprajput/
 <!---
